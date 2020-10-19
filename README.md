@@ -21,4 +21,13 @@ Write a Python function called counts that takes a list as input and returns a d
 
 Addendum via Moodle: with Python, anything built-in that can be used without an import statement can be used.
 
-###Breakdown of the task. 
+### Breakdown of the task
+Create a function called counts.
+Needs to be the end user who inputs the data.
+This will then need to be returned a dictionary of 'unique items as keys' - needs a better understanding of this, perhaps context dependent.
+Output of this list needs to be counted, as per the example.
+
+
+# Bibliogrpahy
+
+[1] The python Standard library: https://docs.python.org/3/library/

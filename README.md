@@ -11,7 +11,9 @@ Each user needs to have the following available to them in order to progress fro
 
 ## Material
 1) Laptptop needs to be available at all times. 
-2) werweffsdf
+2) Python needs to be installed on the laptop
+3) Standard Python Library to be used
+4) Aceess to and understanding of Jupyter Notebook
 
 
 ## Part 1 - Counts
@@ -25,6 +27,7 @@ Addendum via Moodle: with Python, anything built-in that can be used without an 
 Create a function called counts.
 Needs to be the end user who inputs the data.
 This will then need to be returned a dictionary of 'unique items as keys' - needs a better understanding of this, perhaps context dependent.
+Assumption: i think this means take the data that is input and do with it as you see fit i.e., count the number of times a letter is produced.
 Output of this list needs to be counted, as per the example.
 
 

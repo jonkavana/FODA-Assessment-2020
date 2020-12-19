@@ -40,19 +40,56 @@ Addendum via Moodle: with Python, anything built-in that can be used without an 
 
 
 ### Part 2 - DiceRolls
-November 2nd, 2020: Write a Python function called dicerolls that simulates rolling dice. Your function should take two parameters: the number of dice k and the number of times to roll the dice n. The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. So, calling the function as diceroll(k=2, n=1000) should return a dictionary like: {2:19,3:50,4:82,5:112,6:135,7:174,8:133,9:114,10:75,11:70,12:36} You can use any module from the Python standard library you wish and you should include a description with references of your algorithm in the notebook.
+November 2nd, 2020:
+Write a Python function called dicerolls that simulates rolling dice. Your function should take two parameters:
+the number of dice k and the number of times to roll the dice n. 
+
+The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. 
+
+    So, calling the function as diceroll(k=2, n=1000) should return a dictionary like: {2:19,3:50,4:82,5:112,6:135,7:174,8:133,9:114,10:75,11:70,12:36} 
+
+You can use any module from the Python standard library you wish and you should include a description with references of your algorithm in the notebook.
 
 #### Breakdown of the task
+- Create a funciton called dicerolls
+- Setup the funciton so that it takes two arguements
+- Need to be able to implement a for loop to run through the programe
+- Need to be able to find a way of adding two seperate arrays
+- Result is not based on two die, but a number of die dictated by the user
+- Return needs to be in a dictionary, so key value pairing is important
+
 
 ### Part 3 - Coin Toss
-November 16th, 2020: The numpy.random.binomial function can be used to simulate flipping a coin with a 50/50 chance of heads or tails. Interestingly, if a coin is flipped many times then the number of heads is well approximated by a bell-shaped curve. For instance, if we flip a coin 100 times in a row the chance of getting 50 heads is relatively high, the chances of getting 0 or 100 heads is relatively low, and the chances of getting any other number of heads decreases as you move away from 50 in either direction towards 0 or 100. Write some python code that simulates flipping a coin 100 times. Then run this code 1,000 times, keeping track of the number of heads in each of the 1,000 simulations. Select an appropriate plot to depict the resulting list of 1,000 numbers, showing that it roughly follows a bell-shaped curve. You should explain your work in a Markdown cell above the code
+November 16th, 2020:
+The numpy.random.binomial function can be used to simulate flipping a coin with a 50/50 chance of heads or tails. Interestingly, if a coin is flipped many times then the number of heads is well approximated by a bell-shaped curve.
+
+For instance, if we flip a coin 100 times in a row the chance of getting 50 heads is relatively high, the chances of getting 0 or 100 heads is relatively low, and the chances of getting any other number of heads decreases as you move away from 50 in either direction towards 0 or 100.
+
+Write some python code that simulates flipping a coin 100 times. Then run this code 1,000 times, keeping track of the number of heads in each of the 1,000 simulations. Select an appropriate plot to depict the resulting list of 1,000 numbers, showing that it roughly follows a bell-shaped curve. You should explain your work in a Markdown cell above the code
 
 #### Breakdown of the task
+- Complete review of the distributions section of Numpy.random package
+- Setup of a programme called Toss to simulate the tossing of a coin 
+- Implementation of sixe parameter to replicate the above to the requested amount
+- Implementation of MatplotLib library to visually display the output of these pieces of code.
+- Explanation of code throughout and concluded at the end
+
 
 ### Part 4 - Simpsons Paradox
 November 30th, 2020: Simpson’s paradox is a well-known statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Use numpy to create four data sets, each with an x array and a corresponding y array, to demonstrate Simpson’s paradox. You might create your x arrays using numpy.linspace and create the y array for each x using notation like y = a * x + b where you choose the a and b for each x , y pair to demonstrate the paradox. You might see the Wikipedia page for Simpson’s paradox for inspiration.
 
 #### Breakdown of the task
+- Complete review of the lecture material to understand the UC Berkley Bias Paper
+- Research of Simpsons Paradox for further understanding and context
+- Complete review of the Numpy.Linspace package and associated packages
+- Implementation of the above to replicate data to:
+    - Creation of four seperate data sets of with X & Y components
+    - Couple together the first two data sets, ensuring that the number of samples generated are equal
+    - Repeat for the third and fourth set of data sets. 
+    - Perform a direct comparison between the collected datasets, to display the disparity
+    - Perform an exploded view to display there is a case of marginal and partial asspciation viewable. 
+- Results to be displayed graphically on the jupyter notebook 
+
 
 ## Bibliogrpahy
 

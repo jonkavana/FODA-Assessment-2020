@@ -94,4 +94,114 @@ November 30th, 2020: Simpson’s paradox is a well-known statistical paradox whe
 
 ## Bibliogrpahy
 
-[1] The python Standard library: https://docs.python.org/3/library/
+LearnPython - Function
+https://www.learnpython.org/en/Functions
+
+
+Able.bio
+https://able.bio/rhett/check-if-a-key-exists-in-a-python-dictionary--73iajoz#:~:text=To%20simply%20check%20if%20a,')%20%23%20Dogs%20found!&text=A%20dictionary%20can%20be%20a,counting%20the%20occurrence%20of%20items.
+
+Stack Overflow
+https://stackoverflow.com/questions/45069108/use-list-as-function-definition-parameters-in-python
+
+Old Refernece guide for Integers: 
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html#numpy.random.randint
+
+  
+Python - The Python Standard Library, retrieved on October 12th 2020 
+https://docs.python.org/3/library/
+
+RealPython - How to Iterate Through a Dictionary in Python, retrieved on October 12th 2020
+https://realpython.com/iterate-through-dictionary-python/
+
+LearnPython - Function, retrieved on October 14th 2020
+https://www.learnpython.org/en/Functions
+
+Able.bio, retrieved on October 14th 2020
+https://able.bio/rhett/check-if-a-key-exists-in-a-python-dictionary--73iajoz#
+
+W3Schools - For Loops Explanation, retrieved on October 14th 2020
+https://www.w3schools.com/python/python_for_loops.asp  
+
+Numpy - Generate a permutation - retrieved on 14th November 2020
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.permutation.html?highlight=numpy%20random%20permutation#numpy.random.Generator.permutation
+
+Stack Overflow - Function Parameters - retrieved on 14th November 2020
+https://stackoverflow.com/questions/45069108/use-list-as-function-definition-parameters-in-python
+
+Numpy - Old Refernece guide for Integers - retrieved on 14th November 2020
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html#numpy.random.randint
+
+W3Schools - Append reference material - retrieved on 16th November 2020
+https://www.w3schools.com/python/python_arrays.asp
+
+Geeks for geeks - Append reference material - retrieved on 16th November 2020
+https://www.geeksforgeeks.org/append-extend-python/
+
+Numpy - Generator for integers - retrieved on 16th November 2020
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.integers.html#numpy.random.Generator.integers
+
+SciPy Array - retrieved on 16th November 2020
+https://stackoverflow.com/questions/49881570/python-dictionaries-appending-arrays-to-a-dictionary-for-a-specific-key
+
+   
+SciKit - An introduciton to Machine Learning with Scikit-learn - Retrieved on 30th November 2020
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+Numpy - Numpy.equal - Retrieved on 30th November 2020
+https://numpy.org/doc/stable/reference/generated/numpy.equal.html
+
+Numpy - Numpy Binomial - Retrieved on 30th November 2020
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.binomial.html#numpy.random.Generator.binomial
+
+Statology - How to make a Bell Curve in Python - Retrieved on 6th December 2020
+https://www.statology.org/bell-curve-python/
+
+Python & R Tips - Simulating Coin Toss Experiment in Python with NumPy - Retrieved on 30th November 2020
+https://cmdlinetips.com/2018/12/simulating-coin-toss-experiment-with-binomial-random-numbers-using-numpy/
+
+MatPlotib - PyPlot Tutorial - Retrieved on 6th December 2020
+https://matplotlib.org/tutorials/introductory/pyplot.html
+
+MatPlotib - Histogram Overview - Retrieved on 6th December 2020
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html
+
+SciPy - scipy.stats.binom - Retrieved on 12th December 2020
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy.stats.binom
+
+SciPy - scipy.stats.norm - Retrieved on 12th December 2020
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
+
+  
+Numpy Linspace - Retrieved on 20th December 2020
+https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+
+KDNuggets - Retrieved on 10th December 2020
+https://www.kdnuggets.com/2020/09/simpsons-paradox.html
+
+Towards Science - Retrieved on 10th December 2020
+https://towardsdatascience.com/solving-simpsons-paradox-e85433c68d03
+
+MinutePhysics - Retrieved on 13th December 2020
+https://www.youtube.com/watch?v=ebEkn-BiW5k
+
+Britannica - Retrieved on 10th December 2020
+https://www.britannica.com/topic/Simpsons-paradox
+
+Simpsosn Paradox - Retrieved on 10th December 2020
+https://en.wikipedia.org/wiki/Simpson%27s_paradox#cite_note-16
+
+Towards Science - Retrieved on 12th December 2020
+https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9
+
+US National library of medicine - Retrieved on 20th December 2020
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1339981/
+
+Towards Science - What is Simpson’s Paradox? - Retrieved on 20th December 2020
+https://towardsdatascience.com/what-is-simpsons-paradox-4a53cd4e9ee2
+
+Medium.com - Markdown File - Retrieved on 19th December 2020
+https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec
+
+Kite.com - Line of best fit - retrieved on 20th of December
+https://www.kite.com/python/answers/how-to-plot-a-line-of-best-fit-in-python
